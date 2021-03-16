@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#quote-box{
+    border: 1px solid green;
+    width: 600px;
+    text-align: center;
+    margin:0 auto;
+    height: 50vh;
+    overflow: hidden;
+    margin-top: 200px;
+}
+#text{
+    margin: 3rem 10px 0 10px;
+    word-wrap: break-word;
+    font-size: 20px;
+}
+#author{
+    margin-top: 8rem;
+    margin-left: 15rem;
+    font-size: 14px;
+}
+#new-quote{
+    padding: 5px;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#tweet-quote{
+    margin-right: 12rem;
+    text-decoration: none;
+    color: black;
+}
