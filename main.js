@@ -28,7 +28,7 @@ const btn = document.querySelector('#new-quote');
      text.innerText = quotes[randNum].text;
      author.innerText = quotes[randNum].author;
  
-      document.body.style.backgroundColor = randColor();
+    document.body.style.backgroundColor = randColor();
  })
 
  function randColor() {

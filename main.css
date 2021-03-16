@@ -3,9 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background: pink;
+}
 
 #quote-box{
-    border: 1px solid green;
+    /*border: 1px solid green;*/
     width: 600px;
     text-align: center;
     margin:0 auto;
