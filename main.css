@@ -12,6 +12,7 @@
     height: 50vh;
     overflow: hidden;
     margin-top: 200px;
+    background: white;
 }
 #text{
     margin: 3rem 10px 0 10px;
